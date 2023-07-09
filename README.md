@@ -2,4 +2,4 @@
 
 ## Smart Apps
 
-* [k-desk)(/k-desk)
+* [k-desk](/k-desk/)
